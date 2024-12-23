@@ -1,0 +1,2 @@
+print(factorial(5))
+```
